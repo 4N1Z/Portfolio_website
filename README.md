@@ -12,7 +12,7 @@
 
 
 
-# Personal portfolio  :point_down:
+# Portfolio Website  :point_down:
 
 Here is the link :-     
 :paperclip: https://4n1z.github.io/Aniz-Portfolio/
